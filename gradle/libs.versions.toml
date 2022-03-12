@@ -33,7 +33,7 @@ dfu-v4 = "com.mojang:datafixerupper:4.0.26"
 math = "org.spongepowered:math:2.0.1"
 
 # Guice
-guice-compile = "com.google.inject:guice:4.1.0"
+guice-compile = "com.google.inject:guice:5.1.0"
 guice-runtime = "com.google.inject:guice:5.0.1"
 
 # Formats
