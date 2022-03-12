@@ -37,7 +37,7 @@ guice-compile = "com.google.inject:guice:4.1.0"
 guice-runtime = "com.google.inject:guice:5.0.1"
 
 # Formats
-gson = "com.google.code.gson:gson:2.8.0" # Fixed version, to avoid using API not present in older MC
+gson = "com.google.code.gson:gson:2.9.0" # Fixed version, to avoid using API not present in older MC
 hocon = "com.typesafe:config:1.4.2"
 jackson = "com.fasterxml.jackson.core:jackson-core:2.13.1"
 
